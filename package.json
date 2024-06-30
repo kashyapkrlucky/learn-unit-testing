@@ -1,11 +1,11 @@
 {
-  "name": "npm-testing",
+  "name": "learn-unit-testing",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a learning repositry for testing using jest",
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "test-c": "jest --coverage"
+    "coverage": "jest --coverage"
   },
   "keywords": [],
   "author": "",
